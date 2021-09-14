@@ -1,4 +1,4 @@
-# ds_salary
+# Analyzing Data Science Opportunities on Indeed
 
 ## Objective
 Objective of this project is to learn about the different opportunities of Data Science jobs in Canada including where the oppurtunities are and what the salary and skills needed are. 
